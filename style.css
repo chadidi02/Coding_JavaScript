@@ -1,0 +1,10 @@
+html, body {
+    margin: 0px;
+    background-image: url(http://www.pageresource.com/wallpapers/wallpaper/face-space-nasa-life-mars-free_173642.jpg);
+}
+canvas {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
